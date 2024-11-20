@@ -8,3 +8,5 @@
 test2 파일내용 수정 '
 
 EhEH hda
+
+amend 기능을 한번 사용 
